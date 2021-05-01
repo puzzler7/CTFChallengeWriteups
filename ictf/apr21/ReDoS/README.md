@@ -6,6 +6,8 @@
 
 Note: do **NOT** DDOS the server.
 
+**Points:** 75
+
 **Attachments:** redos.py, netcat
 
 This was one of the challenges I submitted, which was not stolen from a previous CTF, but inspired by a justCTF challenge that had a ReDoS vuln (but no similarities otherwise). In doing research for the challenge, I learned that at one point, the official email regex had a clause that suffered from catastrophic backtracking.

@@ -1,8 +1,10 @@
-# ReDoS
+# Librarian
 
 **Categories:** Pwn
 
 **Description:** Welcome to the ImaginaryCTF Library! Can you get the flag? Connect at `nc stephencurry.ctfchallenge.ga 5003`.
+
+**Points:** 175
 
 **Attachments:** `librarian`
 

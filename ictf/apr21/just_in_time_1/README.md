@@ -4,6 +4,8 @@
 
 **Description:** Yet another guessy challenge... Can you guess all the random numbers in time?
 
+**Points:** 125
+
 **Attachments:** lookatthetime.py, netcat
 
 This was one of the challenges I submitted, once again stolen from a previous CTF I've attended (although I cannot recall which one for the life of me). Once again, all code is mine.
